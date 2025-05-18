@@ -12,7 +12,7 @@ public class Main {
             if (nilai >= 75) {
                 System.out.println("Lulus");
             } else {
-                System.out.println("Tidak Lulus");
+                System.out.println("Tidak Lulus"); 
             }
         } else {
             System.out.println("Nilai tidak valid (harus antara 0 - 100)");
