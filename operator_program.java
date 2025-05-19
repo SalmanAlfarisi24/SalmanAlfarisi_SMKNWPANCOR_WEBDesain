@@ -112,4 +112,4 @@ public class BonusPegawai {
 
         System.out.println("Total bonus lembur: Rp" + bonus);
     }
-}
+} 
